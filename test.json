@@ -1,0 +1,92 @@
+{
+    "callback_query": {
+        "data": "confirm_user_request:3",
+        "message": {
+            "delete_chat_photo": "false",
+            "channel_chat_created": "false",
+            "caption_entities": [],
+            "date": 1639127715,
+            "supergroup_chat_created": "false",
+            "new_chat_members": [],
+            "photo": [],
+            "entities": [{
+                "length": 13,
+                "offset": 0,
+                "type": "bold"
+            }, {
+                "length": 15,
+                "offset": 15,
+                "type": "bold"
+            }, {
+                "length": 10,
+                "offset": 32,
+                "type": "bold"
+            }, {
+                "length": 13,
+                "offset": 57,
+                "type": "mention"
+            }, {
+                "length": 11,
+                "offset": 72,
+                "type": "bold"
+            }, {
+                "length": 7,
+                "offset": 94,
+                "type": "bold"
+            }, {
+                "length": 31,
+                "offset": 103,
+                "type": "bold"
+            }, {
+                "length": 31,
+                "offset": 145,
+                "type": "bold"
+            }, {
+                "length": 15,
+                "offset": 178,
+                "type": "bold"
+            }, {
+                "length": 14,
+                "offset": 203,
+                "type": "mention"
+            }, {
+                "length": 13,
+                "offset": 232,
+                "type": "mention"
+            }],
+            "group_chat_created": "false",
+            "chat": {
+                "first_name": "KOMILJONOV",
+                "username": "Shukurulloh_k",
+                "id": 1025888307,
+                "type": "private"
+            },
+            "new_chat_photo": [],
+            "message_id": 4518,
+            "text": "Yangi so'rov!\n\nSo 'rov raqami: 3\nYuboruvchi: 𝓗𝓸𝓳𝓲... (@MHojimurod_1)\nso' rov turi: sfsdfdsf\nshablon: \n-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - \nsdfsdfsdf\n-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - \n\ntasdiqlovchilar\n\ndfgdfg(@Shukurulloh_k)\n\nyuboruvchi: @MHojimurod_1 ",
+            "reply_markup": {
+            "inline_keyboard ": [[{
+            "callback_data ":
+            "confirm_user_request: 3 ",
+            "text": "✅so'rovni tasdiqlash"
+        },
+        {
+            "callback_data": "deny_user_request:3",
+            "text": "❌ so'rovni rad etish "}]]},
+            "from": {
+            "first_name ": "Management",
+            "is_bot ": true,
+            "username ": "companymanagement_bot",
+            "id ": 2136261295}},
+            "chat_instance ": " - 17885771587009810 ",
+            "id ": "4406156729104529797",
+            "from": {
+                "first_name": "KOMILJONOV",
+                "is_bot": false,
+                "language_code": "en",
+                "username": "Shukurulloh_k",
+                "id": 1025888307
+            }
+        },
+        "update_id": 840914275
+    }
