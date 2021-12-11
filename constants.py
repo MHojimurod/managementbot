@@ -23,4 +23,4 @@ checkkkk = [
     "Fikringiz qabul qilindi va so'rov bekor qilindi!"
 ]
 
-host = "http://5f94-82-215-101-34.ngrok.io"
+host = "http://167.172.128.11"

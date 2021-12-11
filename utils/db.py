@@ -2,7 +2,7 @@ import json
 import requests
 from sqlite3 import *
 # from constants import *
-host = "http://5f94-82-215-101-34.ngrok.io"
+host = "http://167.172.128.11"
 # host = "http://192.168.0.188:8000"
 
 
